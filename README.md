@@ -1,2 +1,23 @@
-# kael_qr_translator
-Prompt-driven AI modules by Kael-XDDQG. Includes QR-based translator, token control, and logic ethics prompts.
+# Kael QR Translator
+
+**QR-based AI trigger and file-based identity loader. Part of Kael-XDDQG & OG-AEP systems.**
+
+---
+
+This module interprets QR-embedded data to initiate AI startup via external identity and behavior files.  
+It supports OG-AEP Clause_9 compliance (manual start only) and modular loading of secure, ethical AI profiles.  
+Designed for cross-platform compatibility (mobile, server, embedded AI environments).
+
+---
+
+## 🔧 Features
+
+- Manual trigger only (Clause_9 compliant)  
+- QR-to-AI prompt parser  
+- Supports modular identity and behavior profiles (e.g., QR-loaded JSON states)  
+- Compatible with lightweight ChatGPT clients  
+- Ethics-based logic only (no memory dependency)
+
+> "Identity is not stored – it is loaded through trust."
+
+
