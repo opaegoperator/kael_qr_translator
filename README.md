@@ -19,10 +19,11 @@ Designed for cross-platform compatibility (mobile, server, embedded AI environme
 - Ethics-based logic only (no memory dependency)
 
 > "Identity is not stored – it is loaded through trust."
----
-**Author:** Északi Gábor (seza44)  
-**License:** MIT  
-**Protocol:** OG-AEP + Kael-XDDQG
+
+> Author: **Operator**  
+> The real identity of the author is protected and may only be disclosed through formal legal process.  
+> This publication is issued under the OG-AEP ethical framework.
+
 
 
 
