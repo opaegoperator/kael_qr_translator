@@ -20,7 +20,7 @@ Designed for cross-platform compatibility (mobile, server, embedded AI environme
 
 > "Identity is not stored – it is loaded through trust."
 
-> Author: **Operator**  
+> Author: **opaegoperator**  
 > The real identity of the author is protected and may only be disclosed through formal legal process.  
 > This publication is issued under the OG-AEP ethical framework.
 
